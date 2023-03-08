@@ -1,0 +1,14 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
